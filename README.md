@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Web Development
+- 💬 Ask me about anything!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oguzhanozbektas)
 <!--
 **ogoz/ogoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
